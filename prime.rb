@@ -1,3 +1,4 @@
 def prime(number)
-  if number
+  if number < 3
+    
 end
