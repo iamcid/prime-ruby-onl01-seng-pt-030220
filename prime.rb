@@ -1,4 +1,5 @@
 def prime(number)
-  if number < 3
-    
+  if number < 2
+    false
+  else
 end
